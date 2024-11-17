@@ -1,0 +1,615 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d6" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d5" for="edge" attr.name="keywords" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="entity_type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;MARLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Marley is a ghost who appears to Scrooge, described as wearing his usual attire including a pigtail, waistcoat, tights, and boots."&lt;SEP&gt;"Marley was a deceased individual whose name is prominently displayed on Scrooge's warehouse door, representing the past partnership between him and Marley."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;SCROOGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Scrooge is a central character who experiences changes due to supernatural encounters."&lt;SEP&gt;"Scrooge is a central figure in the text, involved in various interactions and decisions related to communication with an unknown intelligence."&lt;SEP&gt;"Scrooge is a character who encounters an unknown intelligence, revealing his readiness for strange appearances and the fear caused by the absence of any ghostly shape."&lt;SEP&gt;"Scrooge is a tight-fisted, stingy, and self-contained old man who answers to both his own name and Marley's. He embodies characteristics such as frugality, secrecy, and a cold demeanor that freeze him emotionally and physically."&lt;SEP&gt;"Scrooge is playing a game called Yes and No with an unknown entity, demonstrating his sharp intellect."&lt;SEP&gt;"Scrooge is the main character of the story, a cold-hearted miser who undergoes a transformation after being visited by three ghosts."&lt;SEP&gt;"Scrooge is the main character who encounters Marley's Ghost in his home."&lt;SEP&gt;"Scrooge is the main character, who is described as being prepared for almost anything but not prepared for nothing."&lt;SEP&gt;"Scrooge is the observer and narrator, looking at the strange figure with increasing steadiness."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-89777b838d5447c7bd1ec11282c4ee89&lt;SEP&gt;chunk-359187e7571bda4b0b08b2e0b6581e52&lt;SEP&gt;chunk-8f738cb25d60a7dab782162d9d0a25ed&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d&lt;SEP&gt;chunk-91614df5cb74cbe5e109a338a82041e9&lt;SEP&gt;chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;WAREHOUSE&quot;">
+      <data key="d0">"PLACE"</data>
+      <data key="d1">"Scrooge's warehouse is a significant location mentioned in the text, symbolizing his business and the past partnership with Marley."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </node>
+    <node id="&quot;DOOR&quot;">
+      <data key="d0">"ARTIFACT"</data>
+      <data key="d1">"The door of Scrooge's warehouse prominently displays the names 'Scrooge and Marley,' serving as a tangible link to their shared history."</data>
+      <data key="d2">chunk-89777b838d5447c7bd1ec11282c4ee89</data>
+    </node>
+    <node id="&quot;SCROOGE AND MARLEY'">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Scrooge and Marley were a partnership business."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;BEDLAM'">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Bedlam was an old name for a mental asylum, used by Scrooge as a reference to the 'lunatic' he believes his nephew is."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;POOR AND DESTITUTE'">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"The group refers to those who suffer greatly at Christmas time due to their poverty and lack of resources."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;JACOB MARLEY'">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacob Marley was Scrooge's business partner and a deceased friend."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;FEAST OF STEPHEN'">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The Feast of Stephen is mentioned as a holiday that Scrooge mocks, contrasting it with Christmas."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS PAST'">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"The Ghost of Christmas Past is one of the spirits that visit Scrooge to show him his past and influence his future."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;TINY TIM'">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Tiny Tim is Scrooge's nephew, who is sickly but optimistic, and plays a significant role in Scrooge's redemption."</data>
+      <data key="d2">chunk-5dac41b3f9eeaf794f0147400b1718cd</data>
+    </node>
+    <node id="&quot;GHOST&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A ghost refers to the supposed soul or spirit of a dead person that can appear to the living."&lt;SEP&gt;"The Ghost is pleased to find Scrooge in this mood and allows him to stay until the guests depart."&lt;SEP&gt;"The Ghost refers to an unseen entity that appears to Scrooge and reveals the realities of suffering in London."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-43c9bee23adfa77aa9dedd22401bba7d&lt;SEP&gt;chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;A CHRISTMAS CAROL&quot;">
+      <data key="d0">"WORK_OF_ART"</data>
+      <data key="d1">"The novel 'A Christmas Carol' by Charles Dickens, which features the encounter between Scrooge and Marley's ghost."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;CHARLES DICKENS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The author of 'A Christmas Carol', known for his influential works in Victorian literature."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;EBENZER SCROOGE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Another name for the main character Scrooge, emphasizing his miserly nature."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </node>
+    <node id="&quot;JACOB MARLEY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Jacob Marley is mentioned as the one who dispatched the second messenger to Scrooge."&lt;SEP&gt;"The deceased friend of Scrooge who returns as a ghost to warn him about his future."</data>
+      <data key="d2">chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;CHRISTMAS&quot;">
+      <data key="d0">"HOLIDAY"</data>
+      <data key="d1">"A Christian holiday celebrating the birth of Jesus Christ, central to 'A Christmas Carol'."&lt;SEP&gt;"Christmas is a holiday celebrated on December 25th, associated with joy and giving."&lt;SEP&gt;"Christmas is mentioned as the time when Jacob Marley dispatched the second messenger to Scrooge."&lt;SEP&gt;"The setting is clearly during Christmas time, with holiday decorations and festive spirit."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d&lt;SEP&gt;chunk-359187e7571bda4b0b08b2e0b6581e52&lt;SEP&gt;chunk-9c43dac2fcd5b578242d907ea6f8fc7b&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;THE GHOST&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Ghost is a spectral figure that appears to Scrooge and attempts to guide him through his past, present, and future."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;MANKIND&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Mankind refers to all human beings and their collective responsibilities."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;COMMON WELFARE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Common Welfare refers to the overall well-being of society."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;PAST&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The past refers to events that have already occurred in time."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;PRESENT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The present refers to the current moment or time."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;FUTURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The future refers to events and times that are yet to occur."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;TRANSFORMATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Transformation refers to a change or metamorphosis, often for the better."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;VISIT&quot;">
+      <data key="d0">"ACTION"</data>
+      <data key="d1">"A visit is an action where one person goes to see another."&lt;SEP&gt;"Scrooge is visited by a ghostly apparition."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52&lt;SEP&gt;chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;GUIDANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Guidance is the act of leading or directing someone in a certain way."</data>
+      <data key="d2">chunk-359187e7571bda4b0b08b2e0b6581e52</data>
+    </node>
+    <node id="&quot;FIGURE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Figure refers to the mysterious and fluctuating entity being observed by Scrooge."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;HOLLY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A branch of fresh green holly held by the Figure, in contrast with the summer flowers trimming its dress."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;EXTINGUISHER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"An extinguisher used as a cap by the Figure in its duller moments."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;SCROOGE'S NARRATION&quot;">
+      <data key="d0">"TEXT"</data>
+      <data key="d1">"The narration is provided by Scrooge as he observes and describes the strange Figure."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;SUMMER FLOWERS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A reference to the flowers that trim the dress of the Figure, contrasting with the green holly held in its hand."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;FLUCTUATING QUALITIES&quot;">
+      <data key="d0">"ATTRIBUTE"</data>
+      <data key="d1">"Describes the changing and unpredictable nature of the Figure."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;MYSTERIOUS ENTITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A term used to describe the strange and enigmatic presence that Scrooge is observing."</data>
+      <data key="d2">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </node>
+    <node id="&quot;MARKET-TOWN&quot;">
+      <data key="d0">"PLACE"</data>
+      <data key="d1">"Market-town is a small town with its bridge, church, and winding river that appears as Scrooge and his companions approach."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;BOYS&quot;">
+      <data key="d0">"GROUP OF PEOPLE"</data>
+      <data key="d1">"Boys are seen riding shaggy ponies towards Scrooge and his companions."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;COUNTRY GIGS AND CARTS&quot;">
+      <data key="d0">"VEHICLE"</data>
+      <data key="d1">"Country gigs and carts are driven by farmers and used to transport the boys."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;JOCUND TRAVELLERS&quot;">
+      <data key="d0">"GROUP OF PEOPLE"</data>
+      <data key="d1">"Jocund travellers are a group of joyful travelers who greet Scrooge and his companions."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;WELL&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"Scrooge and his companions leave the high-road by a well."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;LANE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"They enter a lane under the shadow of three companions."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;WINTER GRAIN FIELDS&quot;">
+      <data key="d0">"ENVIRONMENT"</data>
+      <data key="d1">"The room became filled with light, and fields of winter grain were seen."</data>
+      <data key="d2">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </node>
+    <node id="&quot;IDOL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Idol refers to a cherished or revered person, idea, or object."</data>
+      <data key="d2">chunk-b2f98bc7abb0c67d4c86055c7fd72218</data>
+    </node>
+    <node id="&quot;FATHER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Father returns home with Christmas toys and presents, greeted by a boisterous group of children."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;CHILDREN&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"A group of children rush towards the door upon hearing the father's return, eager to receive Christmas gifts."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;TOYS&quot;">
+      <data key="d0">"ITEMS"</data>
+      <data key="d1">"The father carries various toys and Christmas items as he enters the house."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;PRESENTS&quot;">
+      <data key="d0">"ITEMS"</data>
+      <data key="d1">"A pile of wrapped presents is set up near the entrance for the children to open."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;HOUSE&quot;">
+      <data key="d0">"LOCATION"</data>
+      <data key="d1">"The scene takes place inside a cozy, warmly decorated home during the Christmas season."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;BOISTEROUS&quot;">
+      <data key="d0">"BEHAVIOR"</data>
+      <data key="d1">"The children's behavior is described as boisterous, indicating excitement and energy."</data>
+      <data key="d2">chunk-54bdd22db1f84a965b5f4c06c9216d8d</data>
+    </node>
+    <node id="&quot;SPIRIT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A spiritual being guiding Scrooge through different events and places."&lt;SEP&gt;"The Spirit refers to the ghostly apparition that visits Scrooge at midnight."</data>
+      <data key="d2">chunk-da2472b4ef2a535b62908f14d0fb0ca9&lt;SEP&gt;chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;SECOND MESSENGER&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The Second Messenger is a ghost sent by Jacob Marley to Scrooge."</data>
+      <data key="d2">chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;MIDNIGHT&quot;">
+      <data key="d0">"TIME"</data>
+      <data key="d1">"The apparition of the Spirit occurs at midnight."</data>
+      <data key="d2">chunk-da2472b4ef2a535b62908f14d0fb0ca9</data>
+    </node>
+    <node id="&quot;GHOSTLY LIGHT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ghostly Light refers to the mysterious ruddy light streaming upon Scrooge's bed, which was more alarming than a dozen ghosts due to its unknown source and meaning."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;ADJOINING ROOM&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Adjoining Room is the nearby space where Scrooge initially believes the ghostly light might originate from."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;TINY TIM&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"A young boy who is the son of Bob Cratchit, a kind-hearted but impoverished employee of Scrooge. Tiny Tim's frailty and cheerful nature contrast with Scrooge's gruff exterior."&lt;SEP&gt;"Tiny Tim is Scrooge's young nephew who becomes ill and dies, influencing Scrooge's transformation."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad&lt;SEP&gt;chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;CHRISTMAS CAROL&quot;">
+      <data key="d0">"WORK_OF_ART"</data>
+      <data key="d1">"The Christmas Carol refers to the story of Ebenezer Scrooge and his encounters with spirits on Christmas Eve."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;MARLEY'S GHOST&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Marley's Ghost is the first spirit that visits Scrooge, representing Scrooge's deceased business partner Jacob Marley."&lt;SEP&gt;"The ghost of Ebenezer Scrooge's former business partner, Jacob Marley, who visits him on Christmas Eve to warn about the consequences of his miserliness."&lt;SEP&gt;"The ghost of Scrooge's former business partner who warns him about his future if he doesn't change his ways."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad&lt;SEP&gt;chunk-91614df5cb74cbe5e109a338a82041e9&lt;SEP&gt;chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;CHRISTMAS SPIRIT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Christmas Spirit refers to the three spirits—Past, Present, and Future—that visit Ebenezer Scrooge on Christmas Eve to change his ways."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;RED NOSE GUY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Red Nose Guy is a character in the A Christmas Carol story, known for delivering messages from the ghosts."</data>
+      <data key="d2">chunk-843b5b2f944c7413d9ca876e2e2f151f</data>
+    </node>
+    <node id="&quot;MRS. CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Cratchit is Bob Cratchit's wife, dressed poorly but brave in ribbons."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;BOB CRATCHIT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Bob Cratchit is the father of Belinda Cratchit and is portrayed as a devoted husband."</data>
+      <data key="d2">chunk-b0f459f5af1c3a5e0b92cbe4ee48b77b</data>
+    </node>
+    <node id="&quot;SAM RIVERA&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Sam Rivera is a member of a team working on communicating with an unknown intelligence, showing a mix of awe and anxiety."&lt;SEP&gt;"Sam Rivera is part of the team dealing with an unknown intelligence, showing excitement and anxiety."&lt;SEP&gt;"Sam Rivera works as part of the team at Project Gutenberg, involved in various projects and communications."</data>
+      <data key="d2">chunk-85f77f5e3a9aba01133555a2d20e2fd8&lt;SEP&gt;chunk-94bea83e7153fc2064aa382b494936a1&lt;SEP&gt;chunk-7e2e7ebcc19a53b399dc03aded4743e7</data>
+    </node>
+    <node id="&quot;NEPHEW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The nephew of Scrooge, whose laughter surprises him."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS PAST&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"A ghost that visits Scrooge to show him scenes from his past."&lt;SEP&gt;"The first spirit that visits Ebenezer Scrooge in Charles Dickens' 'A Christmas Carol'."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64&lt;SEP&gt;chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS PRESENT&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"A ghost that shows Scrooge scenes from Christmas Day and how he is perceived by others."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;GHOST OF CHRISTMAS YET TO COME&quot;">
+      <data key="d0">"CHARACTER"</data>
+      <data key="d1">"A ghost that takes Scrooge to see what the future holds if he does not change his ways."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;FEAST&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The feast that the Cratchit family has on Christmas Day, which contrasts with Scrooge's lonely dinner."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;CAROLERS&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"People who sing Christmas carols, including Tiny Tim and his friends."</data>
+      <data key="d2">chunk-91614df5cb74cbe5e109a338a82041e9</data>
+    </node>
+    <node id="&quot;TOPPER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Topper is a member of the musical family who specializes in bass vocals."</data>
+      <data key="d2">chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </node>
+    <node id="&quot;YES AND NO GAME&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Scrooge's nephew thinks of an animal, and the rest must guess what it is by asking yes or no questions."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;SCROOGE'S NEPHEW&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"He thinks of an animal for the Yes and No game."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;GUESTS&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"They are present at Scrooge's residence where the Yes and No game is taking place."</data>
+      <data key="d2">chunk-43c9bee23adfa77aa9dedd22401bba7d</data>
+    </node>
+    <node id="&quot;IGNORANCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Ignorance represents the boy child, symbolizing the lack of knowledge or education in society."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;WANT&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Want refers to the girl child, representing poverty and hunger in society."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;FATHERS&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Fathers are the parents of Ignorance and Want, implying that they are the ones responsible for their suffering."</data>
+      <data key="d2">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </node>
+    <node id="&quot;CONTROL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Control refers to the ability to manage or govern, which is challenged by an intelligence that writes its own rules."&lt;SEP&gt;"Control refers to the concept of managing or governing situations."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;INTELLIGENCE&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"An unknown intelligence with advanced capabilities that has been discovered by humanity."&lt;SEP&gt;"Intelligence here refers to an entity capable of writing its own rules and learning to communicate."&lt;SEP&gt;"Intelligence here refers to an unknown entity capable of writing its own rules and learning to communicate."</data>
+      <data key="d2">chunk-85f77f5e3a9aba01133555a2d20e2fd8&lt;SEP&gt;chunk-94bea83e7153fc2064aa382b494936a1&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;FIRST CONTACT&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"First Contact is the potential initial communication between humanity and an unknown intelligence."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;HUMANITY'S RESPONSE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Humanity's Response is the collective action taken by a team in response to a message from an unknown intelligence."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;JACOB MARLEY'S PREDICTION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Jacob Marley's Prediction refers to a forewarning about an impending event."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;COMMUNICATION PROTOCOL&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A communication protocol is a set of rules governing how information is exchanged between two entities."&lt;SEP&gt;"Communication Protocol is a set of rules and guidelines for effective communication between different entities."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1&lt;SEP&gt;chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;UNKNOWN INTELLIGENCE'S MESSAGE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Unknown Intelligence's Message refers to the first message received from an unknown intelligence."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;RESEARCH TEAM&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"Research Team is a group of experts working on understanding and responding to the unknown intelligence."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;INTERSTELLAR COMMUNICATION DEVICE&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Interstellar Communication Device is a tool designed for communicating over vast distances in space."</data>
+      <data key="d2">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </node>
+    <node id="&quot;MRS. DILBER&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Mrs. Dilber is a character in the story who sells items to the old man with a pipe, reflecting his generosity towards women."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;OLD MAN WITH PIPE&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Old Man with Pipe is the central character of the story, known for his wisdom and generosity."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;VILLAGE&quot;">
+      <data key="d0">"PLACE"</data>
+      <data key="d1">"The Village is the setting where most of the action takes place, filled with various characters and events."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;YOUNG BOY&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Young Boy is a character who learns valuable lessons from the Old Man with Pipe."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;WISE OWL&quot;">
+      <data key="d0">"ANIMAL"</data>
+      <data key="d1">"The Wise Owl is a symbol of wisdom and often appears to guide the characters."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;RIVER&quot;">
+      <data key="d0">"PLACE"</data>
+      <data key="d1">"The River serves as both a physical boundary and a central location for various events in the story."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;TRAVELING MERCHANT&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"The Traveling Merchant visits the Village, bringing news and goods from distant lands."</data>
+      <data key="d2">chunk-60fc063c79fc0d4acc91a57e79de04dc</data>
+    </node>
+    <node id="&quot;DEATH&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Death is personified and presented as an omnipotent force that sets up an altar with terrors."</data>
+      <data key="d2">chunk-e1f29eeadc1d8ab46dc8a0bbd3c56b64</data>
+    </node>
+    <node id="&quot;CAMDEN TOWN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Camden Town is a location mentioned where Scrooge considers delivering a turkey, though he ultimately opts for a cab."</data>
+      <data key="d2">chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </node>
+    <node id="&quot;TURKEY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"A large turkey that Scrooge plans to send as part of his communication strategy."</data>
+      <data key="d2">chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </node>
+    <node id="&quot;COMMUNICATION STRATEGY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"The approach Scrooge uses to reach out to the unknown intelligence."</data>
+      <data key="d2">chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </node>
+    <node id="&quot;DECISION MAKING&quot;">
+      <data key="d0">"PROCESS"</data>
+      <data key="d1">"Scrooge's process of deciding how and what to communicate."</data>
+      <data key="d2">chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </node>
+    <node id="&quot;DELIVERY METHOD&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Different methods considered by Scrooge for delivering his message, such as a cab or in person."</data>
+      <data key="d2">chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </node>
+    <node id="&quot;ALEX&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">"Alex is the leader of a team attempting first contact with an unknown intelligence, acknowledging the significance of their task."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1</data>
+    </node>
+    <node id="&quot;TEAM&quot;">
+      <data key="d0">"GROUP"</data>
+      <data key="d1">"The team is a group of individuals working together on the mission of communicating with an unknown intelligence."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1</data>
+    </node>
+    <node id="&quot;MISSION&quot;">
+      <data key="d0">"ACTIVITY"</data>
+      <data key="d1">"The mission involves making first contact with an unknown intelligence and understanding its capabilities."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1</data>
+    </node>
+    <node id="&quot;RULEBOOK&quot;">
+      <data key="d0">"DOCUMENT"</data>
+      <data key="d1">"The rulebook outlines the guidelines and expectations for interacting with an unknown intelligence."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1</data>
+    </node>
+    <node id="&quot;DATA ANALYSIS&quot;">
+      <data key="d0">"ACTIVITY"</data>
+      <data key="d1">"Data analysis involves interpreting the information received from the unknown intelligence to understand its nature."</data>
+      <data key="d2">chunk-94bea83e7153fc2064aa382b494936a1</data>
+    </node>
+    <node id="&quot;THE FOUNDATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Foundation is responsible for promoting the free distribution of electronic works through Project Gutenberg."</data>
+      <data key="d2">chunk-194cd9680f4967f48bea89678f7ece21</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The United States is mentioned as a location where copyright laws do not apply to certain Project Gutenberg works, allowing them to be shared freely without charge."</data>
+      <data key="d2">chunk-194cd9680f4967f48bea89678f7ece21</data>
+    </node>
+    <node id="&quot;PROJECT GUTENBERG™&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Project Gutenberg is a registered trademark associated with the free distribution of electronic books."</data>
+      <data key="d2">chunk-194cd9680f4967f48bea89678f7ece21</data>
+    </node>
+    <node id="&quot;PROJECT GUTENBERG&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Sam Rivera works under Alex, a member of the team trying to communicate with the Intelligence, showing a mix of awe and anxiety"&lt;SEP&gt;Project Gutenberg is a 501(c)(3) educational corporation that has organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation’s EIN or federal tax identification number is 64-6221541. Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. foundation to interact with an unknown intelligence."</data>
+      <data key="d2">chunk-85f77f5e3a9aba01133555a2d20e2fd8</data>
+    </node>
+    <node id="&quot;PROJECT GUTENBERG LITERARY ARCHIVE FOUNDATION&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Project Gutenberg Literary Archive Foundation is a non-profit organization dedicated to making literature freely available online."</data>
+      <data key="d2">chunk-85f77f5e3a9aba01133555a2d20e2fd8</data>
+    </node>
+    <edge source="&quot;MARLEY&quot;" target="&quot;SCROOGE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Marley's Ghost appears to Scrooge, causing him distress and revealing past events."</data>
+      <data key="d5">"spiritual encounter, revelation"</data>
+      <data key="d6">chunk-9c43dac2fcd5b578242d907ea6f8fc7b</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;FIGURE&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Scrooge observes the strange and fluctuating qualities of the Figure, noting its changing appearance and peculiarities."</data>
+      <data key="d5">"observation, wonder"</data>
+      <data key="d6">chunk-c7b10789a9cb0af6c553730b29bd9034</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;BOYS&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Scrooge is initially cold towards the boys, but as they approach, he begins to glisten and his heart leaps up with joy at seeing them."</data>
+      <data key="d5">"joy, emotion"</data>
+      <data key="d6">chunk-bb21d58d36c6306fd8810ddd51c4a971</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;GHOST&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Scrooge is visited by the Ghost, who reveals the harsh realities of London to him."</data>
+      <data key="d5">"vision, revelation"</data>
+      <data key="d6">chunk-e7637ff18c5ded77a68cce0a87883fad</data>
+    </edge>
+    <edge source="&quot;SCROOGE&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Scrooge is actively involved in("entity"</data>
+      <data key="d5">"Unknown Intelligence"</data>
+      <data key="d6">chunk-8f738cb25d60a7dab782162d9d0a25ed</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;ALEX&quot;">
+      <data key="d3">16.0</data>
+      <data key="d4">"Sam Rivera and Alex are team members under the leadership of Alex, engaging in communication with an unknown intelligence."&lt;SEP&gt;"Sam Rivera is part of Alex's team, showing a mix of awe and anxiety in their attempt to communicate with the unknown intelligence."</data>
+      <data key="d5">"teamwork, communication"</data>
+      <data key="d6">chunk-b2f98bc7abb0c67d4c86055c7fd72218&lt;SEP&gt;chunk-773d0df1dd25c356f7b771d780583e09</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">9.0</data>
+      <data key="d4">"Sam Rivera is directly involved in learning how to communicate with the unknown intelligence."</data>
+      <data key="d5">"communication, learning process"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;COMMUNICATION PROTOCOL&quot;">
+      <data key="d3">12.0</data>
+      <data key="d4">"Sam Rivera is involved in developing a communication protocol for interacting with the unknown intelligence."</data>
+      <data key="d5">"protocol development, learning process"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;SAM RIVERA&quot;" target="&quot;INTERSTELLAR COMMUNICATION DEVICE&quot;">
+      <data key="d3">14.0</data>
+      <data key="d4">"Sam Rivera uses the Interstellar Communication Device to communicate with the unknown intelligence."</data>
+      <data key="d5">"device operation, communication"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;CONTROL&quot;" target="&quot;INTELLIGENCE&quot;">
+      <data key="d3">7.0</data>
+      <data key="d4">"Rule Writing"</data>
+      <data key="d5">"The concept of Control is challenged by the Intelligence that writes its own rules."</data>
+      <data key="d6">chunk-85f77f5e3a9aba01133555a2d20e2fd8</data>
+    </edge>
+    <edge source="&quot;INTELLIGENCE&quot;" target="&quot;ALEX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Humanity's Response"</data>
+      <data key="d5">"Alex is directly responsible for making first contact with the unknown intelligence, acknowledging the significance of their task"</data>
+      <data key="d6">chunk-85f77f5e3a9aba01133555a2d20e2fd8</data>
+    </edge>
+    <edge source="&quot;FIRST CONTACT&quot;" target="&quot;ALEX&quot;">
+      <data key="d3">10.0</data>
+      <data key="d4">"Alex leads the team attempting first contact with an unknown intelligence."</data>
+      <data key="d5">"leadership, exploration"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+    <edge source="&quot;RESEARCH TEAM&quot;" target="&quot;ALEX&quot;">
+      <data key="d3">13.0</data>
+      <data key="d4">"Alex leads the Research Team in their efforts to understand and respond to the unknown intelligence."</data>
+      <data key="d5">"leadership, research coordination"</data>
+      <data key="d6">chunk-02baee20cc9463dbe08170a8e1043e32</data>
+    </edge>
+  </graph>
+</graphml>

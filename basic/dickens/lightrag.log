@@ -1,0 +1,62 @@
+2024-11-17 09:44:50,158 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-17 09:44:50,159 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-17 09:44:50,160 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-17 09:44:50,161 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-17 09:45:25,332 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-17 09:45:25,332 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-17 09:45:25,333 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-17 09:45:25,334 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-17 09:46:38,805 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-17 09:46:38,806 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-17 09:46:38,806 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-17 09:46:38,807 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-17 09:46:38,810 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-17 09:46:39,582 - lightrag - INFO - [New Chunks] inserting 42 chunks
+2024-11-17 09:46:39,583 - lightrag - INFO - Inserting 42 vectors to chunks
+2024-11-17 09:46:41,276 - lightrag - INFO - [Entity Extraction]...
+2024-11-17 09:46:41,411 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-17 09:48:06,447 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-17 09:48:06,448 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-17 09:48:06,449 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-17 09:48:06,450 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-17 09:48:06,452 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-17 09:48:06,457 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-17 09:48:06,494 - lightrag - INFO - [New Chunks] inserting 42 chunks
+2024-11-17 09:48:06,495 - lightrag - INFO - Inserting 42 vectors to chunks
+2024-11-17 09:48:07,618 - lightrag - INFO - [Entity Extraction]...
+2024-11-17 09:48:07,757 - lightrag - INFO - Writing graph with 0 nodes, 0 edges
+2024-11-17 09:48:17,436 - lightrag - INFO - Logger initialized for working directory: ./dickens
+2024-11-17 09:48:17,437 - lightrag - INFO - Load KV llm_response_cache with 0 data
+2024-11-17 09:48:17,437 - lightrag - INFO - Load KV full_docs with 0 data
+2024-11-17 09:48:17,438 - lightrag - INFO - Load KV text_chunks with 0 data
+2024-11-17 09:48:17,439 - lightrag - INFO - Loaded graph from ./dickens/graph_chunk_entity_relation.graphml with 0 nodes, 0 edges
+2024-11-17 09:48:17,445 - lightrag - INFO - [New Docs] inserting 1 docs
+2024-11-17 09:48:17,481 - lightrag - INFO - [New Chunks] inserting 42 chunks
+2024-11-17 09:48:17,481 - lightrag - INFO - Inserting 42 vectors to chunks
+2024-11-17 09:48:18,609 - lightrag - INFO - [Entity Extraction]...
+2024-11-17 09:55:35,450 - lightrag - INFO - Inserting 105 vectors to entities
+2024-11-17 09:55:36,703 - lightrag - INFO - Inserting 13 vectors to relationships
+2024-11-17 09:55:36,811 - lightrag - INFO - Writing graph with 105 nodes, 13 edges
+2024-11-17 09:55:36,837 - lightrag - INFO - Truncate 42 to 3 chunks
+2024-11-17 09:55:40,951 - lightrag - INFO - Local query uses 60 entites, 13 relations, 3 text units
+2024-11-17 09:55:42,141 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 09:55:43,300 - lightrag - INFO - Local query uses 60 entites, 13 relations, 3 text units
+2024-11-17 09:55:43,332 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:06:43,978 - lightrag - INFO - Truncate 42 to 3 chunks
+2024-11-17 10:06:55,138 - lightrag - INFO - Truncate 42 to 3 chunks
+2024-11-17 10:07:50,381 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:08:08,530 - lightrag - INFO - Local query uses 60 entites, 13 relations, 3 text units
+2024-11-17 10:08:08,561 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:08:33,332 - lightrag - INFO - Local query uses 60 entites, 11 relations, 3 text units
+2024-11-17 10:08:33,355 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:08:49,097 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2024-11-17 10:08:49,128 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:09:03,510 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:09:28,944 - lightrag - INFO - Local query uses 60 entites, 12 relations, 3 text units
+2024-11-17 10:09:28,974 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:10:22,043 - lightrag - INFO - Local query uses 60 entites, 13 relations, 3 text units
+2024-11-17 10:10:22,074 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:10:42,855 - lightrag - INFO - Local query uses 60 entites, 5 relations, 3 text units
+2024-11-17 10:10:42,888 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
+2024-11-17 10:11:36,788 - lightrag - INFO - Local query uses 60 entites, 5 relations, 3 text units
+2024-11-17 10:11:36,818 - lightrag - INFO - Global query uses 13 entites, 13 relations, 3 text units
